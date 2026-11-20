@@ -42,52 +42,52 @@
 
 .col-2 {
     flex-grow: 0;
-    flex-basis: 16,67%;
+    flex-basis: 9.09%;
 }
  
 .col-3 {
     flex-grow: 0;
-    flex-basis: 25,00%;
+    flex-basis: 10%;
 }
 
 .col-4 {
     flex-grow: 0;
-    flex-basis: 33,33%;
+    flex-basis: 11.12%;
 }
 
 .col-5 {
     flex-grow: 0;
-    flex-basis: 41,67%;
+    flex-basis: 12.5%;
 }
 
 .col-6 {
     flex-grow: 0;
-    flex-basis: 50,00%;
+    flex-basis: 14.3%;
 }
 
 .col-7 {
     flex-grow: 0;
-    flex-basis: 58,33%;
+    flex-basis: 16.67%;
 }
 
 .col-8 {
     flex-grow: 0;
-    flex-basis: 66,67%;
+    flex-basis: 20%;
 }
 
 .col-9 {
     flex-grow: 0;
-    flex-basis: 75,00%;
+    flex-basis: 25%;
 }
 
 .col-10 {
     flex-grow: 0;
-    flex-basis: 83,33%;
+    flex-basis: 33.33%;
 }
 
 .col-11 {
     flex-grow: 0;
-    flex-basis: 91,67%;
+    flex-basis: 50%;
 }
   
 .col-12 {
