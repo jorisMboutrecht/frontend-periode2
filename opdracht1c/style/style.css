@@ -98,3 +98,26 @@
 .aria-hidden {
     aria-hidden: true
 }
+
+.content-row {
+    flex-grow: 1;
+}
+
+nav.col-10 {
+    align-items: flex-start;
+    flex-direction: column;
+}
+
+.content {
+    flex-direction: column;
+    align-items: stretch;
+}
+
+.col-11.content {
+    flex-grow: 1;
+}
+
+.content section {
+    padding: 20px 0;
+    border-bottom: 1px solid #000;
+}
