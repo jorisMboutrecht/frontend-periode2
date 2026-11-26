@@ -1,0 +1,14 @@
+.achtergrond-licht {
+    background-color: #eee;
+    padding: 20px;
+}
+
+.achtergrond-donker {
+    background-color: #aaa;
+    padding: 20px;
+}
+
+.achtergrond-wit {
+    background-color: #fff;
+    padding: 15px;
+}
